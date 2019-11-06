@@ -1,2 +1,2 @@
 # WebAPK
-Simple Template for a chrome WebAPK.
+Simple template for a chrome WebAPK.

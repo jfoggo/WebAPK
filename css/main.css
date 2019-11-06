@@ -1,0 +1,28 @@
+body {
+	text-align: center;
+	background: black;
+	color: white;
+}
+h1 {
+	margin-top: 40vh;
+}
+h1 span {
+	display: inline-block;
+	animation: whobble 2s infinite;
+}
+abbr {
+	text-decoration: none;
+}
+#connection {
+	position: absolute;
+	top: 5px;
+	right: 5px;
+}
+button {
+	display: none;
+}
+@keyframes whobble {
+	0% { transform: scale(1); }
+	50% { transform: scale(1.1); }
+	100% { transform: scale(1); }
+}
