@@ -1,17 +1,17 @@
 /*
 	Cache Strategy: cacheAll (boolean flag)
 		
-		1) cacheAll = true 		=> Cache all requests in urlsToCache list plus all further requests
+		1) cacheAll = true 		=> Cache all requests in urlsToCache list and all further requests
 		2) cacheAll = false 	=> Cache only all requests in urlsToCache list
 */
 var cacheAll = false;
 var CACHE_NAME = 'tetris-cache';
 var urlsToCache = [
 	'/WebAPK/index.html',
-	'/WebAPK/main.css',
-	'/WebAPK/main.js',
-	'/WebAPK/jquery.min.js',
-	'/WebAPK/logo.png'
+	'/WebAPK/logo.png',
+	'/WebAPK/css/main.css',
+	'/WebAPK/js/main.js',
+	'/WebAPK/js/jquery.min.js'
 ];
 var urlsNotToCache = [
 	// Urls that don't need to be cached can be added here explicitly
