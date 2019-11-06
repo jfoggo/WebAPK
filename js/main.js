@@ -33,7 +33,6 @@ function init(){
 	window.addEventListener("beforeinstallprompt",function(event){
 		console.log("[*] WebAPK install event fired!");
 		event.prompt();
-		showInstallPromotion();
 	});
 	
 	// Initialize online/offline detection
