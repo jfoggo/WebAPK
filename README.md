@@ -8,6 +8,8 @@ A web-apk is an installable [web-app](https://developers.google.com/web/progress
 To make a web-app installable, it has to meet some specific [criteria](https://developers.google.com/web/fundamentals/app-install-banners).
 This code repository covers all these crierias. Additionally this web-apk will also work completely [offline](https://developers.google.com/web/fundamentals/codelabs/offline)!
 
+Check out the live demo [here](https://jfoggo.github.io/WebAPK)!
+
 ### Usage
 Simply **clone** the complete repository, **extend** the app with some additional resource files and **upload** the project to your webserver (eg. Github Pages).
 
