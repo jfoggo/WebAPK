@@ -1,7 +1,6 @@
 # WebAPK
 
-Have you ever wanted to develope your own app?  
-This is all you need! 
+Have you ever wanted to develope your own app? And you would like to use HTML+CSS+JS? This is all you need! 
 
 ### Description
 This repo contains a simple template for a chrome web-apk. A web-apk is an installable web-app that runs in a separate process instead of the browser window. To make a web-app installable, it has to meet some [specific criteria](https://developers.google.com/web/fundamentals/app-install-banners). This code repository covers all these crierias.
@@ -23,7 +22,7 @@ The required manifest entries are:
 - start\_url  
 - display = \[standalone|fullscreen\]
  
-### Useful Links
+### Related Pages
 [Native App Install Prompt](https://developers.google.com/web/fundamentals/app-install-banners/native)  
 [Add to Homescreen](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Add_to_home_screen)  
 [How to make PWAs installable](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Installable_PWAs)  
