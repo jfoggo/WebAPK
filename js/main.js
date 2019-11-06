@@ -32,7 +32,7 @@ function init(){
 	// Trigger install prompt for WebAPK
 	window.addEventListener("beforeinstallprompt",function(event){
 		console.log("[*] WebAPK install event fired!");
-		showInstallPromotion();
+		//showInstallPromotion();
 		event.prompt();
 	});
 	
