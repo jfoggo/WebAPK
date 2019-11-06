@@ -5,7 +5,7 @@
 		2) cacheAll = false 	=> Cache only all requests in urlsToCache list
 */
 var cacheAll = false;
-var CACHE_NAME = 'tetris-cache';
+var CACHE_NAME = 'webapk-cache';
 var urlsToCache = [
 	'/WebAPK/index.html',
 	'/WebAPK/logo.png',
