@@ -1,4 +1,5 @@
 {
+	"author": "J.Fechner",
 	"name": "WebAPK",
 	"short_name": "Chrome WebAPK",
 	"description": "Simple template for a chrome WebAPK.",

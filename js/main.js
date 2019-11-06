@@ -4,7 +4,7 @@ console.log("[*] The app is running as a "+(isWebAPK?"WebAPK":"Browser-Page"));
 
 function checkOnlineStatus(){
 	isOnline = navigator.onLine;
-	console.log("[*] Connection status has changed to: "+(isOnline?"online":"offline"));
+	console.log("[*] Connection status: "+(isOnline?"online":"offline"));
 	if (isOnline){
 		$("#connection abbr").html("&#128246;");
 		$("#connection abbr").attr("title","You are online!");
