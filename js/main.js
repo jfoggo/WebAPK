@@ -1,4 +1,6 @@
-var isOnline = true;
+var isOnline = true;														// Can be used to check if device is in offline/online mode
+var isWebAPK = window.matchMedia('(display-mode: standalone)').matches;		// Can be used to check if browser or webapk currently running
+console.log("[*] The app is running as a "+(isWebAPK?"WebAPK":"Browser-Page"));
 
 function checkOnlineStatus(){
 	isOnline = navigator.onLine;
