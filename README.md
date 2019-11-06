@@ -27,6 +27,7 @@ The **required** `manifest` entries are:
  
 ### Browser Support
 This currently only works in `Chrome` & `Samsung Browser` (based on Chrome).  
+But other browsers will try to install it as a simple web-app.  
 Tested in Chrome Version 78.0.39064.62 & Samsung Browser Version 10.1.01.3
 
 ### Related Pages
