@@ -35,7 +35,7 @@ Tested in Chrome Version 78.0.39064.62 & Samsung Browser Version 10.1.01.3
 [Add to Homescreen](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Add_to_home_screen)  
 [How to make PWAs installable](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Installable_PWAs)  
 [Manifest.json documentation](https://developer.mozilla.org/de/docs/Mozilla/Add-ons/WebExtensions/manifest.json)  
-[ServiceWorker + Offline](https://developers.google.com/web/fundamentals/codelabs/offline)
+[ServiceWorker + Offline](https://developers.google.com/web/fundamentals/codelabs/offline)  
 [Progressive Web Apps on Desktop](https://developers.google.com/web/progressive-web-apps/desktop)  
 [Tools for PWA Developers](https://developers.google.com/web/ilt/pwa/tools-for-pwa-developers)  
 [Debugging Service Workers](https://developers.google.com/web/fundamentals/codelabs/debugging-service-workers)
