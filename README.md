@@ -1,24 +1,24 @@
 # WebAPK
 
-Have you ever wanted to develope your own app? And you would like to use HTML+CSS+JS only? This is all you need! 
+Have you ever wanted to develope your **own app**? And you would like to use **HTML**+**CSS**+**JS** only? This is all you need! 
 
 ### Description
-This repository contains a simple template for a chrome [web-apk](https://developers.google.com/web/fundamentals/integration/webapks).
-A [web-apk](https://developers.google.com/web/fundamentals/integration/webapks) is an installable [web-app](https://developers.google.com/web/progressive-web-apps) that runs in a separate process instead of the browser window.
-To make a [web-app](https://developers.google.com/web/progressive-web-apps) installable, it has to meet some specific [criteria](https://developers.google.com/web/fundamentals/app-install-banners).
-This code repository covers all these crierias. Additionally this [web-apk](https://developers.google.com/web/fundamentals/integration/webapks) will also work completely [offline](https://developers.google.com/web/fundamentals/codelabs/offline)!
+This repository contains a simple **template** for a chrome [web-apk](https://developers.google.com/web/fundamentals/integration/webapks).
+A web-apk is an installable [web-app](https://developers.google.com/web/progressive-web-apps) that runs in a separate process instead of the browser window.
+To make a web-app installable, it has to meet some specific [criteria](https://developers.google.com/web/fundamentals/app-install-banners).
+This code repository covers all these crierias. Additionally this web-apk will also work completely [offline](https://developers.google.com/web/fundamentals/codelabs/offline)!
 
 ### Usage
-Simply clone the complete repository, extend the app with some additional resource files and upload the project to your webserver (eg. Github Pages).
+Simply **clone** the complete repository, **extend** the app with some additional resource files and **upload** the project to your webserver (eg. Github Pages).
 
 ### Criteria List
-You need to meet ALL of the following [criterias](https://developers.google.com/web/fundamentals/app-install-banners):  
--   the webapp isn't already installed  
+You need to meet **ALL** of the following [criterias](https://developers.google.com/web/fundamentals/app-install-banners):  
+-   the webapp **isn't** already installed  
 -   a `HTTPS` connection to serve your app   
 -   a valid `manifest.json` linked via head  
 -   a `ServiceWorker` (listening for fetch event)
 
-The required `manifest` entries are:  
+The **required** `manifest` entries are:  
 - short\_name  
 - name  
 - icons  (with appropriate sizes)  
