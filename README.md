@@ -29,7 +29,7 @@ The **required** `manifest` entries are:
 ### Web-App VS WebAPK
 Some people might raise the question: **What's the difference**?  
 
--   Let's start with: **Shortlinks**  
+-   Let's start with: **Shortcuts**  
 Have you ever added a simple website to your homescreen? 
 This can be done with almost any site! 
 Just visit the page, open settings and choose `add to homescreen`.
