@@ -1,5 +1,4 @@
 # WebAPK
-
 Have you ever wanted to develope your **own app**? And you would like to use **HTML**+**CSS**+**JS** only? This is all you need! 
 
 ### Description
