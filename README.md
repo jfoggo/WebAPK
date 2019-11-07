@@ -37,7 +37,7 @@ Just visit the page, open settings and choose `add to homescreen`.
 This will add a shortcut to your page, with a separate icon on your homescreen.
 If you click the icon, the `browser` will popup with your page loaded.
 
--   One step further: **Web-App's**  
+-   One step further: **Web-Apps**  
 If your visited page also contains a `manifest` file, the browser will install (by same procedure as before) a web-app instead of the shortcut.
 If the manifest has the display property set to standalone, the app will open a `separate window` instead of the browser. 
 But the icon for your web-app will allways contain a `little browser symbol`, indicating it is not a real app!  
