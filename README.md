@@ -45,7 +45,8 @@ But the icon for your web-app will allways contain a `little browser symbol`, in
 -   And finally: **WebAPKs**  
 It can also be installed with the same procedure as before, but the installation prompt might look a little different and take a little longer.
 Why? Because this time, google's new invented service takes your web-app, compiles it into an APK, playstore signs it and chrome finally installs it.
-And what is the result? There is no tiny little browser logo in your app's icon and the app is installed `like any other app`! Have a look at your `phone settings => Apps`. There will be a hint: **installed via playstore**. 
+And what is the result? There is no tiny little browser logo in your app's icon and the app is installed `like any other app`! Have a look at your `phone settings => Apps`.
+Your app will be listed there with the hint: **installed via playstore**. 
 
 The definitions above are not guaranteed to be 100% correct. If you are really interested visit [here](https://medium.com/@firt/is-there-a-cold-war-between-android-and-chrome-because-of-pwas-e50a7471056c).
 
