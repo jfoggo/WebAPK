@@ -51,7 +51,7 @@ Your app will be listed there with the hint: **installed via playstore**.
 The definitions above are not guaranteed to be 100% correct. If you are really interested visit [here](https://medium.com/@firt/is-there-a-cold-war-between-android-and-chrome-because-of-pwas-e50a7471056c).
 
 ### Browser Support
-This currently only works in `Chrome` & `Samsung Browser` (based on Chrome).  
+This currently works only in `Chrome` & `Samsung Browser` (based on Chrome).  
 But other browsers will try to install it as a simple web-app.  
 Tested on `Android` in Chrome Version 78.0.39064.62 & Samsung Browser Version 10.1.01.3
 
