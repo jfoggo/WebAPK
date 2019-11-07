@@ -10,6 +10,23 @@ This code repository covers all these criterias. Additionally this web-apk will 
 
 Check out the live demo [here](https://jfoggo.github.io/WebAPK)!
 
+### Usage
+Simply **clone** the complete repository, **extend** the app with some additional resource files and **upload** the project to your webserver (eg. Github Pages).
+
+### Criteria List
+You need to meet **ALL** of the following [criterias](https://developers.google.com/web/fundamentals/app-install-banners):  
+-   the webapp **isn't** already installed  
+-   a `HTTPS` connection to serve your app   
+-   a valid `manifest.json` linked via head  
+-   a `ServiceWorker` (listening for fetch event)
+
+The **required** `manifest` entries are:  
+- short\_name  
+- name  
+- icons  (with appropriate sizes)  
+- start\_url  
+- display = \[standalone|fullscreen\]
+
 ### Web-App VS WebAPK
 Some people might raise the question: **What's the difference**?  
 
@@ -32,23 +49,6 @@ And what is the result? There is no tiny little browser logo in your app's icon 
 
 The definitions above are not guaranteed to be 100% correct. If you are really interested visit [here](https://medium.com/@firt/is-there-a-cold-war-between-android-and-chrome-because-of-pwas-e50a7471056c).
 
-### Usage
-Simply **clone** the complete repository, **extend** the app with some additional resource files and **upload** the project to your webserver (eg. Github Pages).
-
-### Criteria List
-You need to meet **ALL** of the following [criterias](https://developers.google.com/web/fundamentals/app-install-banners):  
--   the webapp **isn't** already installed  
--   a `HTTPS` connection to serve your app   
--   a valid `manifest.json` linked via head  
--   a `ServiceWorker` (listening for fetch event)
-
-The **required** `manifest` entries are:  
-- short\_name  
-- name  
-- icons  (with appropriate sizes)  
-- start\_url  
-- display = \[standalone|fullscreen\]
- 
 ### Browser Support
 This currently only works in `Chrome` & `Samsung Browser` (based on Chrome).  
 But other browsers will try to install it as a simple web-app.  
