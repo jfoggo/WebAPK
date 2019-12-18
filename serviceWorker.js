@@ -7,8 +7,10 @@
 var cacheAll = false;
 var CACHE_NAME = 'webapk-cache';
 var urlsToCache = [
+	'/WebAPK/',
 	'/WebAPK/index.html',
 	'/WebAPK/logo.png',
+	'/WebAPK/manifest.json',
 	'/WebAPK/css/main.css',
 	'/WebAPK/js/main.js',
 	'/WebAPK/js/jquery.min.js'
