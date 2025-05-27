@@ -12,6 +12,8 @@ Check out the **live demo** [here](https://jfoggo.github.io/WebAPK)!
 ### Usage
 Simply **clone** the complete repository, **extend** the app with some additional resource files and **upload** the project to your webserver (eg. Github Pages).
 
+Then you can start adding more features to your app. See following documentation ([WebApp Features](https://whatpwacando.today/)) for further details.
+
 ### Criteria List
 You need to meet **ALL** of the following [criterias](https://developers.google.com/web/fundamentals/app-install-banners):  
 -   the webapp **isn't** already installed  
@@ -63,7 +65,8 @@ Tested on `Android` in Chrome Version 78.0.39064.62 & Samsung Browser Version 10
 [ServiceWorker + Offline](https://developers.google.com/web/fundamentals/codelabs/offline)  
 [Progressive Web Apps on Desktop](https://developers.google.com/web/progressive-web-apps/desktop)  
 [Tools for PWA Developers](https://developers.google.com/web/ilt/pwa/tools-for-pwa-developers)  
-[Debugging Service Workers](https://developers.google.com/web/fundamentals/codelabs/debugging-service-workers)
+[Debugging Service Workers](https://developers.google.com/web/fundamentals/codelabs/debugging-service-workers)  
+[What can PWAs do?](https://whatpwacando.today/)
 
 ### Credits & License
 `Author`: J.R.Fechner  
